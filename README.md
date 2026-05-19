@@ -55,6 +55,6 @@ Currently building something of my own from scratch. Stay tuned... 👀
 
 *"The code you write today is the foundation of what you'll build tomorrow."* 🧱
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=israelalmore)
 
 </div>
