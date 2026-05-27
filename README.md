@@ -40,8 +40,7 @@ Took part in a hackathon where I had to design, build and pitch a working soluti
 Throughout the year I've developed several projects applying HTML, CSS, JavaScript, PHP and MySQL — from responsive layouts to backend logic and database management.
 
 ### 🌐 Portfolio
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)(https://israelalmore.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://israelalmore.com)
 ### 🔨 Personal Project *(in progress)*
 Currently building something of my own from scratch. Stay tuned... 👀
 
